@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background: url(ImagenesVero/Matemáticas3.jpg);  
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+
+   
+ 
+  
+ 
+}
+
+
+h1 {
+  text-align: center;
+  color: yellow;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+}
+
+p {
+  text-align: left;
+  color: yellow;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+#colegios {
+  font-size: 20px;
+  color: yellow;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#capacitación {
+  font-size: 20px;
+  color: yellow;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#Personal-Data {
+  font-size: 20px;
+  color: yellow;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
